@@ -1,6 +1,21 @@
 # 💫 About Me:
 I'm Jaswanth Yamana, a full-stack AI & ML developer with expertise in building AI-powered applications and intelligent systems. I specialize in agentic workflows, conversational AI, machine learning, and end-to-end full-stack development using Python, TypeScript, and modern frameworks. My projects focus on creating production-grade AI solutions that combine real-time systems, observability, and enterprise-grade features.
 
+## 👀 I'm interested in:
+- Multi-agent AI systems and agentic workflows
+- Large Language Models (LLMs) and prompt engineering
+- Building intelligent conversational interfaces
+- AI observability and reliability monitoring
+- Machine learning and predictive analytics
+- Real-time streaming systems with feedback loops
+- End-to-end AI-powered applications
+
+## 💞️ I'm looking to collaborate on:
+- AI-powered applications that solve real-world problems
+- Full-stack projects leveraging LLMs and multi-agent systems
+- Open-source AI/ML projects
+- Production-grade intelligent systems
+- Real-time applications with streaming progress and feedback loops
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaswanth_yamana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Jaswant29125855) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthyamana@gmail.com) 
