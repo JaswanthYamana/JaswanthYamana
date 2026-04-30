@@ -1,21 +1,23 @@
-# 💫 About Me:
-I'm Jaswanth Yamana, a full-stack AI & ML developer with expertise in building AI-powered applications and intelligent systems. I specialize in agentic workflows, conversational AI, machine learning, and end-to-end full-stack development using Python, TypeScript, and modern frameworks. My projects focus on creating production-grade AI solutions that combine real-time systems, observability, and enterprise-grade features.
+#💫 About Me:
 
-## 👀 I'm interested in:
-- Multi-agent AI systems and agentic workflows
-- Large Language Models (LLMs) and prompt engineering
-- Building intelligent conversational interfaces
-- AI observability and reliability monitoring
-- Machine learning and predictive analytics
-- Real-time streaming systems with feedback loops
-- End-to-end AI-powered applications
+I’m Jaswanth Yamana, an undergraduate in Artificial Intelligence and Machine Learning with a strong interest in building and analyzing intelligent systems. My work focuses on multi-agent AI workflows, large language model (LLM) applications, and full-stack systems that integrate machine learning into real-world scenarios.
 
-## 💞️ I'm looking to collaborate on:
-- AI-powered applications that solve real-world problems
-- Full-stack projects leveraging LLMs and multi-agent systems
-- Open-source AI/ML projects
-- Production-grade intelligent systems
-- Real-time applications with streaming progress and feedback loops
+I have developed several end-to-end AI systems, including multi-agent pipelines, conversational interfaces, and ML-based applications, with an emphasis on reliability, observability, and structured outputs. Through these projects, I’ve explored how design choices in model selection, orchestration, and system architecture impact performance and robustness.
+
+##👀 Interests:
+
+- Multi-agent systems and agent orchestration
+- Large Language Models (LLMs) and reasoning workflows
+- Machine learning and data-driven modeling
+- AI system reliability, evaluation, and observability
+- Real-time and streaming AI applications
+
+##💞️ Open to Collaborate On:
+
+- Research-oriented AI/ML projects
+- Open-source systems involving LLMs or agent workflows
+- End-to-end applications combining ML, backend systems, and user interfaces
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaswanth_yamana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Jaswant29125855) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthyamana@gmail.com) 
