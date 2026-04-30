@@ -1,10 +1,10 @@
-#💫 About Me:
+# 💫 About Me:
 
 I’m Jaswanth Yamana, an undergraduate in Artificial Intelligence and Machine Learning with a strong interest in building and analyzing intelligent systems. My work focuses on multi-agent AI workflows, large language model (LLM) applications, and full-stack systems that integrate machine learning into real-world scenarios.
 
 I have developed several end-to-end AI systems, including multi-agent pipelines, conversational interfaces, and ML-based applications, with an emphasis on reliability, observability, and structured outputs. Through these projects, I’ve explored how design choices in model selection, orchestration, and system architecture impact performance and robustness.
 
-##👀 Interests:
+## 👀 I'm interested in:
 
 - Multi-agent systems and agent orchestration
 - Large Language Models (LLMs) and reasoning workflows
@@ -12,7 +12,7 @@ I have developed several end-to-end AI systems, including multi-agent pipelines,
 - AI system reliability, evaluation, and observability
 - Real-time and streaming AI applications
 
-##💞️ Open to Collaborate On:
+## 💞️ I'm looking to collaborate on:
 
 - Research-oriented AI/ML projects
 - Open-source systems involving LLMs or agent workflows
